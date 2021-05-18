@@ -16,7 +16,7 @@ Cutter Max Height = 200 (yrd), Cutter Min Height = 10 (yrd) and Lay Lenght = 22 
 
 ## The Out of this Code (The Cut Order Plan):
 
-| Index | XS | S | M | L | XL | Plies | Yards | Inchs | Total Fabric Used |
+| Marker<br>Plan No.| XS | S | M | L | XL | Plies | Yards | Inchs | Total Fabric<br>Used |
 |:-:|:-:|:-:|:-:|:-:|:---:|:-----:|:-----:|:-----:|:-----------------:| 
 | 1 | 2 | 18 | 0 | 0 | 0 | 23 | 21 | 17 | 494 |
 | 2	|2 | 7 | 6 | 4 | 0 | 193 | 21 | 12 | 4115 |
@@ -27,5 +27,5 @@ Cutter Max Height = 200 (yrd), Cutter Min Height = 10 (yrd) and Lay Lenght = 22 
 | 7	|0	|1	|0	|4	|9	|116	|18	|25	|2170 |
 | 8	|0	|0	|1|	0|	0|	54	|1|	5	|63 |
 | 9	|4	|1	|1|	4	|7	|10	|21	|2	|211 |
-| Total | 1688 | 4315	| 4229	| 2927	| 1952	| 897	| 170	| 133 | 17548|
+| **Total**| **1688** | **4315**	| **4229**	| **2927**	| **1952**	| 897	| 170	| 133 | **17548**|
 
