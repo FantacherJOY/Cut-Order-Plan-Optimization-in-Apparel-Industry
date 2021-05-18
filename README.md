@@ -14,7 +14,7 @@ Cut order planning (COP) is an important role in managing the costs of fabric an
 
 Cutter Max Height = 200 (yrd), Cutter Min Height = 10 (yrd) and Lay Lenght = 22 (yrd)
 
-## The Out of this Code (The Cut Order Plan):
+## The Output of this Code (The Cut Order Plan):
 
 | Marker<br>Plan No.| XS | S | M | L | XL | Plies | Yards | Inchs | Total Fabric<br>Used |
 |:-:|:-:|:-:|:-:|:-:|:---:|:-----:|:-----:|:-----:|:-----------------:| 
