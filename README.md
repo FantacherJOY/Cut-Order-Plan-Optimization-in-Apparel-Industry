@@ -1,6 +1,6 @@
 # Cut Order Plan Optimization in Apparel Industry
 
-Cut order planning (COP) plays an important role in managing fabric costs and setting up for starting a new section in the manufacturing process. An efficient COP solution can significantly reduce the total manufacturing cost in the apparel industry. In most countries, the cut order plan had been done by the traditional approach. So, the main purpose of this project was to find the optimal Cut Order Plan ( or Marker Plan) for a specific order quantity. In this project, I have followed the "[Hybrid heuristics for the cut ordering planning problem in the apparel industry](https://www.sciencedirect.com/science/article/abs/pii/S0360835220302126)" research paper. The codes were written in Python.
+Cut order planning (COP) plays an important role in managing fabric costs and setting up for starting a new section in the manufacturing process. An efficient COP solution can significantly reduce the total manufacturing cost in the apparel industry. In most countries, the cut order plan had been done by the traditional approach. The main purpose of this project was to find the optimal Cut Order Plan ( or Marker Plan) for a specific order quantity. In this project, I have followed the "[Hybrid heuristics for the cut ordering planning problem in the apparel industry](https://www.sciencedirect.com/science/article/abs/pii/S0360835220302126)" research paper. The codes were written in Python.
 
 ## The Input of this Code:
 
